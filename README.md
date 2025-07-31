@@ -32,7 +32,7 @@
 
 
 ## 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,jenkins,gitlab,snyk,githubactions,python,java,spring,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,jenkins,gitlab,ansible,githubactions,python,java,spring,ansible,prometheus,grafana" />
 
 ---
 ---
