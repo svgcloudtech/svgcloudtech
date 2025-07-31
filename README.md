@@ -18,10 +18,10 @@
 
 ## 💡 What I Offer
 
-- 💥 Real-Time DevOps Projects (CI/CD, Docker, K8s, GitHub Actions)
-- ☁️ AWS Infrastructure Setup (Hands-on)
-- ⚙️ Full DevOps Lifecycle Training (Git ➝ Jenkins ➝ Docker ➝ K8s ➝ Monitoring)
-- 🧾 Resume Building, Interview Prep, Job Assistance
+🔸 💥 Real-Time DevOps Projects (CI/CD, Docker, K8s, GitHub Actions)
+🔸 ☁️ AWS Infrastructure Setup (Hands-on)
+🔸 ⚙️ Full DevOps Lifecycle Training (Git ➝ Jenkins ➝ Docker ➝ K8s ➝ Monitoring)
+🔸 🧾 Resume Building, Interview Prep, Job Assistance
 
 ---
 
