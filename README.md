@@ -18,12 +18,18 @@
 
 ## 💡 What I Offer
 
-🔸 💥 Real-Time DevOps Projects (CI/CD, Docker, K8s, GitHub Actions)
-🔸 ☁️ AWS Infrastructure Setup (Hands-on)
-🔸 ⚙️ Full DevOps Lifecycle Training (Git ➝ Jenkins ➝ Docker ➝ K8s ➝ Monitoring)
-🔸 🧾 Resume Building, Interview Prep, Job Assistance
+🔹 **DevOps Projects (Hands-On)**  
+ ➤ CI/CD Pipelines · GitHub Actions · Jenkins · Docker · Kubernetes
 
----
+🔹 **Cloud Labs (AWS)**  
+ ➤ Real-time setup using EC2 · S3 · IAM · EKS · Terraform
+
+🔹 **Full DevOps Lifecycle**  
+ ➤ Git ➝ Maven ➝ Jenkins ➝ Docker ➝ Kubernetes ➝ Monitoring (Prometheus/Grafana)
+
+🔹 **Career Support**  
+ ➤ Resume Reviews · Mock Interviews · Job Assistance · Doubt Clearing (Daily)
+
 
 ## 🧰 Tech Stack
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
