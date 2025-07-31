@@ -1,7 +1,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+SVG+CloudTech!;🚀+Master+in+Cloud+DevOps+Trainer;🎯+Training+Freshers+to+Experts+with+Real+Time+Projects;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+SVGCloudTech!;🚀+Master+in+Cloud+DevOps+Trainer;🎯+Training+Freshers+to+Experts+with+Real+Time+Projects;" />
 </p>
 
 ---
