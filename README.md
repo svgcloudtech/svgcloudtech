@@ -30,8 +30,14 @@
 
 ---
 ---
+## 🚀 Current Focus
 
-## 📣 Connect with Me
+🔸 Master in Cloud DevOps – Weekend Batch (Aug–Oct 2025)  
+🔸 Real-time CI/CD Projects  
+🔸 Job & Resume Assistance for Freshers & Non-IT  
+🔸 DevSecOps, GitHub Actions, Kubernetes on AWS  
+
+## 📣 Connect Us
 
 - 🌐 Website: [svgcloudtech.com](https://svgcloudtech.com)
 - 📞 WhatsApp: +91 9975905919
