@@ -27,16 +27,9 @@
 ---
 
 ## 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
 
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-
+---
 ---
 
 ## 📣 Connect with Me
